@@ -29,6 +29,34 @@ doce:RioDoce doce:wasMeasuredIn :WaterTemperatureMeasurement314020-2017-1 ,
         rdfs:comment "Ponte férrea sobre o rio do Carmo, em Acaiaca (MG). Não atingido pelo rejeito. Área de pastagem." ;
         rdfs:label "Acaiaca - Carmo 01" .
 
+###  http://purl.org/nemo/examples/doceexample#RCA-02
+:RCA-02 rdf:type owl:NamedIndividual ,
+                 doce:GeographicPoint ;
+        doce:hasLatitude "-30.3471"^^xsd:float ;
+        doce:hasLongitude "-94.1127"^^xsd:float ;
+        rdfs:comment "Um viaduto estreito que não foi afetado pelo Rio Doce." ;
+        rdfs:label "Balalaica" .
+
+###  http://purl.org/nemo/examples/doceexample#RCA-03
+:RCA-03 rdf:type owl:NamedIndividual ,
+                 doce:GeographicPoint ;
+        doce:hasLatitude "-42.3571"^^xsd:float ;
+        doce:hasLongitude "-70.1127"^^xsd:float ;
+        rdfs:comment "Casa de número 101, não afetada pelo Rio Doce." ;
+        rdfs:label "Gibraltar" .
+
+###  http://purl.org/nemo/examples/doceexample#RCA-04
+:RCA-04 rdf:type owl:NamedIndividual ,
+                 doce:GeographicPoint ;
+        doce:hasLatitude "-97.3571"^^xsd:float ;
+        doce:hasLongitude "-30.1127"^^xsd:float ;
+        rdfs:comment "Vilarejo dos indígenas, afetado pelo Rio Doce." ;
+        rdfs:label "Filíspolis" .
+
+
+
+
+
 
 ###  http://purl.org/nemo/examples/doceexample#Renova
 :Renova rdf:type owl:NamedIndividual ,
