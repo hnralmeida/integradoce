@@ -1,4 +1,10 @@
-# For more information visit https://nemo-ufes.github.io/doce/
-# Develop by @hnralmeida under orientation of the creator of the The doce water quality ontology
+## Develop by @hnralmeida and Luiz Eduardo Marchiori
 
-Project https://nemo.inf.ufes.br/projetos/integradoce/
+> For more information visit https://nemo-ufes.github.io/doce/ 
+
+##### Project https://nemo.inf.ufes.br/projetos/integradoce/
+
+<p> This project is under orientation of the creator of the The doce water quality ontology,
+Júlio Nardi and Victorio Albani</p>
+
+***
