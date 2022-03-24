@@ -1,0 +1,297 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/nemo/doce#AbioticEntity> a owl:Class .
+
+<http://purl.org/nemo/doce#Agent> a owl:Class .
+
+<http://purl.org/nemo/doce#AmbientTemperature> a owl:Class .
+
+<http://purl.org/nemo/doce#AmmoniacalNitrogenConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#AmountOfWater> a owl:Class .
+
+<http://purl.org/nemo/doce#ArtificialGeographicFeature> a owl:Class .
+
+<http://purl.org/nemo/doce#BiologicalOxygenDemand> a owl:Class .
+
+<http://purl.org/nemo/doce#BiologicalQualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#BioticEntity> a owl:Class .
+
+<http://purl.org/nemo/doce#ChemicalEntityConcentrationQualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#ChemicalEntityType> a owl:Class .
+
+<http://purl.org/nemo/doce#ChlorophyllAConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#Concentration> a owl:Class .
+
+<http://purl.org/nemo/doce#Conductivity> a owl:Class .
+
+<http://purl.org/nemo/doce#CyanideConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#Device> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedAluminiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedAntimonyConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedArsenicConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedBariumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedBerylliumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedBoronConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedCadmiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedCalciumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedChromiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedCobaltConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedCopperConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedIronConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedLeadConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedMagnesiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedManganeseConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedMercuryConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedMolybdenumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedNickelConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedOrganicCarbonConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedOxygenConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedPhosphorusConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedPotassiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedSeleniumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedSilicaConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedSilverConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedSodiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedVanadiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#DissolvedZincConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#FerricIronIIIConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#FerrousIronIIConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#FlourideConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#FlowRate> a owl:Class .
+
+<http://purl.org/nemo/doce#GeographicFeature> a owl:Class .
+
+<http://purl.org/nemo/doce#GeographicallyLocatedEntity> a owl:Class .
+
+<http://purl.org/nemo/doce#Hardness_CalciumCarbonateEquivalence> a owl:Class .
+
+<http://purl.org/nemo/doce#HydrogenSulfideConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#HydrographicFeature> a owl:Class .
+
+<http://purl.org/nemo/doce#KjeldahlMethodNitrogenConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#Lake> a owl:Class .
+
+<http://purl.org/nemo/doce#MaterialEntity> a owl:Class .
+
+<http://purl.org/nemo/doce#Measurement> a owl:Class .
+
+<http://purl.org/nemo/doce#MetalConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#MetalloidConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#MetereologicalQuality> a owl:Class .
+
+<http://purl.org/nemo/doce#MetereologicalQualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#MethylmercuryConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#NaturalGeographicFeature> a owl:Class .
+
+<http://purl.org/nemo/doce#NitrateConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#NitriteConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#NonMetalConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#OrganicNitrogenConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#OxygenSaturation> a owl:Class .
+
+<http://purl.org/nemo/doce#PheophytinConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#PhosphateConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#PhysicalChemicalQuality> a owl:Class .
+
+<http://purl.org/nemo/doce#PhysicalChemicalQualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#PolyphosphateConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#Preparation> a owl:Class .
+
+<http://purl.org/nemo/doce#QualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#Rainfall> a owl:Class .
+
+<http://purl.org/nemo/doce#RedoxPotential> a owl:Class .
+
+<http://purl.org/nemo/doce#RelativeHumidity> a owl:Class .
+
+<http://purl.org/nemo/doce#ResearchActivity> a owl:Class .
+
+<http://purl.org/nemo/doce#ResearchActivityAgent> a owl:Class .
+
+<http://purl.org/nemo/doce#ResearchActivityPrincipal> a owl:Class .
+
+<http://purl.org/nemo/doce#ResearchActivityProcedure> a owl:Class .
+
+<http://purl.org/nemo/doce#Reservoir> a owl:Class .
+
+<http://purl.org/nemo/doce#River> a owl:Class .
+
+<http://purl.org/nemo/doce#Salinity> a owl:Class .
+
+<http://purl.org/nemo/doce#Sample> a owl:Class .
+
+<http://purl.org/nemo/doce#SampledEntity> a owl:Class .
+
+<http://purl.org/nemo/doce#Sampling> a owl:Class .
+
+<http://purl.org/nemo/doce#SamplingDepth> a owl:Class .
+
+<http://purl.org/nemo/doce#SecchiDiskTransparency> a owl:Class .
+
+<http://purl.org/nemo/doce#SettleableSolids> a owl:Class .
+
+<http://purl.org/nemo/doce#SolidsConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#SulphateConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#SurfaceWaterFeature> a owl:Class .
+
+<http://purl.org/nemo/doce#SurfaceWaterSample> a owl:Class .
+
+<http://purl.org/nemo/doce#Temperature> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalAlkalinityAsCaCO3> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalAluminiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalAntimonyConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalArsenicConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalBariumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalBerylliumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalBoronConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalCadmiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalCalciumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalChlorideConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalChromiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalCobaltConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalCopperConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalDissolvedSolids> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalIronConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalLeadConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalMagnesiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalManganeseConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalMercuryConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalMolybdenumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalNickelConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalOrganicCarbonConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalPhosphorousConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSeleniumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSilverConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSodiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSolids> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSulfideConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalSuspendedSolids> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalVanadiumConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TotalZincConcentration> a owl:Class .
+
+<http://purl.org/nemo/doce#TrueColor> a owl:Class .
+
+<http://purl.org/nemo/doce#Turbidity> a owl:Class .
+
+<http://purl.org/nemo/doce#Unit> a owl:Class .
+
+<http://purl.org/nemo/doce#VolumePerUnitTime> a owl:Class .
+
+<http://purl.org/nemo/doce#WaterQualityKind> a owl:Class .
+
+<http://purl.org/nemo/doce#WaterSample> a owl:Class .
+
+<http://purl.org/nemo/doce#locatedIn> rdfs:range <http://purl.org/nemo/doce#GeographicPoint> .
+
+<http://purl.org/nemo/doce#pH> a owl:Class .
+
+<http://purl.org/nemo/gufo#AbstractIndividual> a owl:Class .
+
+<http://purl.org/nemo/gufo#Category> a owl:Class .
+
+<http://purl.org/nemo/gufo#ConcreteIndividual> a owl:Class .
+
+<http://purl.org/nemo/gufo#Event> a owl:Class .
+
+<http://purl.org/nemo/gufo#Kind> a owl:Class .
+
+<http://purl.org/nemo/gufo#Object> a owl:Class .
+
+<http://purl.org/nemo/gufo#Quality> a owl:Class .
+
+<http://purl.org/nemo/gufo#QualityValue> a owl:Class .
+
+<http://purl.org/nemo/gufo#RigidType> a owl:Class .
+
+<http://purl.org/nemo/gufo#Type> a owl:Class .
+
+<http://www.opengis.net/ont/geosparql#Geometry> a owl:Class .
+
+<http://purl.org/nemo/doce#GeographicPoint> a owl:Class .
+
