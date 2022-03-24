@@ -1,9 +1,1 @@
 
-<http://purl.org/nemo/examples/doceexample#RCA-01> a <http://purl.org/nemo/doce#GeographicPoint> .
-
-<http://purl.org/nemo/examples/doceexample#RCA-02> a <http://purl.org/nemo/doce#GeographicPoint> .
-
-<http://purl.org/nemo/examples/doceexample#RCA-03> a <http://purl.org/nemo/doce#GeographicPoint> .
-
-<http://purl.org/nemo/examples/doceexample#RCA-04> a <http://purl.org/nemo/doce#GeographicPoint> .
-
