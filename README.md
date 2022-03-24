@@ -1,4 +1,4 @@
-## Develop by @hnralmeida and Luiz Eduardo Marchiori
+## Develop by @hnralmeida and @luizeduardom
 
 > For more information visit https://nemo-ufes.github.io/doce/ 
 
