@@ -1,1 +1,10 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/nemo/examples/doceexample#RCA-01> rdfs:label "Acaiaca - Carmo 01" .
+
+<http://purl.org/nemo/examples/doceexample#RCA-02> rdfs:label "Balalaica" .
+
+<http://purl.org/nemo/examples/doceexample#RCA-03> rdfs:label "Gibraltar" .
+
+<http://purl.org/nemo/examples/doceexample#RCA-04> rdfs:label "Filíspolis" .
 
