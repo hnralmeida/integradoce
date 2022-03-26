@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 For more information visit https://nemo-ufes.github.io/doce/ 
+  💌 For more information visit https://nemo-ufes.github.io/doce/ 
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Contact me: ⤵️
+  🦄 Contact me: ⤵️
 </p>
 
 <p align="left">
