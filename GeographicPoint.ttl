@@ -1,10 +1,232 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://purl.org/nemo/examples/doceexample#RCA-01> rdfs:label "Acaiaca - Carmo 01" .
+<http://purl.org/nemo/doce#locatedIn> rdfs:label "locatedIn"@en .
 
-<http://purl.org/nemo/examples/doceexample#RCA-02> rdfs:label "Balalaica" .
+<http://purl.org/nemo/integradoce#EBN-01> rdfs:label "Sao Mateus - Estuario Barra Nova 01" .
 
-<http://purl.org/nemo/examples/doceexample#RCA-03> rdfs:label "Gibraltar" .
+<http://purl.org/nemo/integradoce#EBN-02> rdfs:label "Sao Mateus - Estuario Barra Nova 02" .
 
-<http://purl.org/nemo/examples/doceexample#RCA-04> rdfs:label "Filíspolis" .
+<http://purl.org/nemo/integradoce#ECR-01> rdfs:label "Conceicao da Barra - Estuario Cricare 01" .
+
+<http://purl.org/nemo/integradoce#ECR-02> rdfs:label "Conceicao da Barra - Estuario Cricare 02" .
+
+<http://purl.org/nemo/integradoce#EIT-01> rdfs:label "Conceicao da Barra - Estuario Itaunas 01" .
+
+<http://purl.org/nemo/integradoce#EIT-02> rdfs:label "Conceicao da Barra - Estuario Itaunas 02" .
+
+<http://purl.org/nemo/integradoce#EPA-01> rdfs:label "Aracruz - Estuario Piraque-Acu 01" .
+
+<http://purl.org/nemo/integradoce#EPA-02> rdfs:label "Aracruz - Estuario Piraque-Acu 02" .
+
+<http://purl.org/nemo/integradoce#ERC-01> rdfs:label "Nova Vicosa - Estuario Rio Caravelas" .
+
+<http://purl.org/nemo/integradoce#ERC-02> rdfs:label "Caravelas - Estuario Rio Caravelas" .
+
+<http://purl.org/nemo/integradoce#ERD-01> rdfs:label "Linhares - Estuario Rio Doce 01" .
+
+<http://purl.org/nemo/integradoce#ERI-01> rdfs:label "Linhares - Estuario Rio Ipiranga 01" .
+
+<http://purl.org/nemo/integradoce#ERI-02> rdfs:label "Linhares - Estuario Rio Ipiranga 02" .
+
+<http://purl.org/nemo/integradoce#ERM-01> rdfs:label "Fundao - Estuario Reis Magos 01" .
+
+<http://purl.org/nemo/integradoce#ERM-02> rdfs:label "Fundao - Estuario Reis Magos 02" .
+
+<http://purl.org/nemo/integradoce#ERR-01> rdfs:label "Aracruz - Estuario Rio Riacho 01" .
+
+<http://purl.org/nemo/integradoce#ERR-02> rdfs:label "Aracruz - Estuario Rio Riacho 02" .
+
+<http://purl.org/nemo/integradoce#ERU-01> rdfs:label "Mucuri - Estuario Rio Mucuri" .
+
+<http://purl.org/nemo/integradoce#LAL-01> rdfs:label "Linhares - Lagoa do Areal 01" .
+
+<http://purl.org/nemo/integradoce#LAO-01> rdfs:label "Linhares - Lagoa do Areao 01" .
+
+<http://purl.org/nemo/integradoce#LAO-02> rdfs:label "Linhares - Lagoa do Areao 02" .
+
+<http://purl.org/nemo/integradoce#LJP-01> rdfs:label "Linhares - Lagoa Juparana 01" .
+
+<http://purl.org/nemo/integradoce#LJP-02> rdfs:label "Linhares - Lagoa Juparana 02" .
+
+<http://purl.org/nemo/integradoce#LJP-03> rdfs:label "Linhares - Lagoa Juparana 03" .
+
+<http://purl.org/nemo/integradoce#LLM-01> rdfs:label "Colatina - Lagoa do Limao 01" .
+
+<http://purl.org/nemo/integradoce#LLM-02> rdfs:label "Colatina - Lagoa do Limao 02" .
+
+<http://purl.org/nemo/integradoce#LLM-03> rdfs:label "Colatina - Lagoa do Limao 03" .
+
+<http://purl.org/nemo/integradoce#LMN-01> rdfs:label "Linhares - Lagoa Monsaras 01" .
+
+<http://purl.org/nemo/integradoce#LMN-02> rdfs:label "Linhares - Lagoa Monsaras 02" .
+
+<http://purl.org/nemo/integradoce#LNV-01> rdfs:label "Linhares - Lagoa Nova 01" .
+
+<http://purl.org/nemo/integradoce#LNV-02> rdfs:label "Linhares - Lagoa Nova 02" .
+
+<http://purl.org/nemo/integradoce#LNV-03> rdfs:label "Linhares - Lagoa Nova 03" .
+
+<http://purl.org/nemo/integradoce#RCA-01> rdfs:label "Acaiaca - Carmo 01" .
+
+<http://purl.org/nemo/integradoce#RCA-02> rdfs:label "Barra Longa - Carmo 02" .
+
+<http://purl.org/nemo/integradoce#RCA-02M> rdfs:label "Barra Longa - Carmo 02 - Estacao Automatica" .
+
+<http://purl.org/nemo/integradoce#RCA-03> rdfs:label "Barra Longa - Carmo 03" .
+
+<http://purl.org/nemo/integradoce#RCA-04> rdfs:label "Barra Longa - Carmo 04" .
+
+<http://purl.org/nemo/integradoce#RCA-05> rdfs:label "Barra Longa - Carmo 05" .
+
+<http://purl.org/nemo/integradoce#RCA-06> rdfs:label "Barra Longa - Carmo 06" .
+
+<http://purl.org/nemo/integradoce#RCR-01> rdfs:label "Conselheiro Pena - Caratinga 01" .
+
+<http://purl.org/nemo/integradoce#RDO-01> rdfs:label "Rio Doce - Doce 01" .
+
+<http://purl.org/nemo/integradoce#RDO-01M> rdfs:label "Rio Doce - Doce 01 - Estacao Automatica" .
+
+<http://purl.org/nemo/integradoce#RDO-02> rdfs:label "Rio Doce - Doce 02" .
+
+<http://purl.org/nemo/integradoce#RDO-03> rdfs:label "Sao Domingos do Prata - Doce 03" .
+
+<http://purl.org/nemo/integradoce#RDO-04> rdfs:label "Bom Jesus do Galho - Doce 04" .
+
+<http://purl.org/nemo/integradoce#RDO-05> rdfs:label "Belo Oriente - Doce 05" .
+
+<http://purl.org/nemo/integradoce#RDO-06> rdfs:label "Periquito - Doce 06" .
+
+<http://purl.org/nemo/integradoce#RDO-07> rdfs:label "Governador Valadares - Doce 07" .
+
+<http://purl.org/nemo/integradoce#RDO-08> rdfs:label "Governador Valadares - Doce 08" .
+
+<http://purl.org/nemo/integradoce#RDO-09> rdfs:label "Tumiritinga - Doce 09" .
+
+<http://purl.org/nemo/integradoce#RDO-10> rdfs:label "Resplendor - Doce 10" .
+
+<http://purl.org/nemo/integradoce#RDO-11> rdfs:label "Baixo Guandu - Doce 11" .
+
+<http://purl.org/nemo/integradoce#RDO-12> rdfs:label "Colatina - Doce 12" .
+
+<http://purl.org/nemo/integradoce#RDO-13> rdfs:label "Colatina - Doce 13" .
+
+<http://purl.org/nemo/integradoce#RDO-14> rdfs:label "Colatina - Doce 14" .
+
+<http://purl.org/nemo/integradoce#RDO-15> rdfs:label "Linhares - Doce 15" .
+
+<http://purl.org/nemo/integradoce#RDO-16> rdfs:label "Linhares - Doce 16" .
+
+<http://purl.org/nemo/integradoce#RGN-01> rdfs:label "Mariana - Gualaxo Norte 01" .
+
+<http://purl.org/nemo/integradoce#RGN-01M> rdfs:label "Mariana - Gualaxo Norte 01 - Estacao Automatica" .
+
+<http://purl.org/nemo/integradoce#RGN-02> rdfs:label "Mariana - Gualaxo Norte 02" .
+
+<http://purl.org/nemo/integradoce#RGN-03> rdfs:label "Mariana - Gualaxo Norte 03" .
+
+<http://purl.org/nemo/integradoce#RGN-04> rdfs:label "Mariana - Gualaxo Norte 04" .
+
+<http://purl.org/nemo/integradoce#RGN-05> rdfs:label "Mariana - Gualaxo Norte 05" .
+
+<http://purl.org/nemo/integradoce#RGN-06> rdfs:label "Mariana - Gualaxo Norte 06" .
+
+<http://purl.org/nemo/integradoce#RGN-07> rdfs:label "Mariana - Gualaxo Norte 07" .
+
+<http://purl.org/nemo/integradoce#RGN-08> rdfs:label "Barra Longa - Gualaxo Norte 08" .
+
+<http://purl.org/nemo/integradoce#RGU-01> rdfs:label "Baixo Guandu - Guandu 01" .
+
+<http://purl.org/nemo/integradoce#RMA-01> rdfs:label "Raul Soares - Matipo 01" .
+
+<http://purl.org/nemo/integradoce#RMH-01> rdfs:label "Aimores - Manhuacu 01" .
+
+<http://purl.org/nemo/integradoce#RPC-01> rdfs:label "Mariana - Piracicaba 01" .
+
+<http://purl.org/nemo/integradoce#RPC-02> rdfs:label "Mariana - Piracicaba 02" .
+
+<http://purl.org/nemo/integradoce#RPC-03> rdfs:label "Timoteo - Piracicaba 03" .
+
+<http://purl.org/nemo/integradoce#RPG-01> rdfs:label "Ponte Nova - Piranga 01" .
+
+<http://purl.org/nemo/integradoce#RSA-01> rdfs:label "Naque - Santo Antonio 01" .
+
+<http://purl.org/nemo/integradoce#RSA-01M> rdfs:label "Belo Oriente - Santo Antonio 02" .
+
+<http://purl.org/nemo/integradoce#RSG-01> rdfs:label "Governador Valadares - Suacui 01" .
+
+<http://purl.org/nemo/integradoce#RVD-03> rdfs:label "Mariana - Dique S3" .
+
+<http://purl.org/nemo/integradoce#RVD-04> rdfs:label "Mariana - Dique S4" .
+
+<http://purl.org/nemo/integradoce#UNESP_C1> rdfs:label "Rio Piranga (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_C2> rdfs:label "Rio Piracicaba (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_C3> rdfs:label "Rio Santo Antônio (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_C4> rdfs:label "Rio Guandu (ES)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J1> rdfs:label "Rio do Carmo à montante do encontro com rio Gualaxo do Norte" .
+
+<http://purl.org/nemo/integradoce#UNESP_J10> rdfs:label "Rio Doce em de Ipatinga (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J11> rdfs:label "Rio Doce em de Naque (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J12> rdfs:label "Rio Doce em Governador Valadares (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J13> rdfs:label "Rio Doce na cidade de Galiléia (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J14> rdfs:label "Rio Doce no município de Baixo Guandu (ES)/Aimorés (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J15> rdfs:label "Rio Doce na cidade de Colatina (ES)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J16> rdfs:label "Rio Doce em Linhares (ES) na fazenda Maria Bonita" .
+
+<http://purl.org/nemo/integradoce#UNESP_J17> rdfs:label "Foz do Rio Doce no distrito de Regência (ES)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J2> rdfs:label "Rio Gualaxo do Norte (Paracatu de Baixo-MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J3> rdfs:label "Rio do Carmo à jusante do Rio Gualaxo do Norte (Barra Longa-MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J4> rdfs:label "Rio Doce no município de Rio Doce (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_J5> rdfs:label "Rio Doce BR262 entre os municípios de Rio Doce e Ipatinga (MG)" .
+
+<http://purl.org/nemo/integradoce#UNESP_M2> rdfs:label "Rio Gualaxo do Norte em Bento Rodrigues" .
+
+<http://purl.org/nemo/integradoce#ZCN-01> rdfs:label "Linhares - Povoacao" .
+
+<http://purl.org/nemo/integradoce#ZCN-02> rdfs:label "Linhares - Vila de Cacimbas" .
+
+<http://purl.org/nemo/integradoce#ZCN-03> rdfs:label "Linhares - Pontal do Ipiranga" .
+
+<http://purl.org/nemo/integradoce#ZCN-04> rdfs:label "Sao Mateus - Urussuquara" .
+
+<http://purl.org/nemo/integradoce#ZCN-05> rdfs:label "Sao Mateus - Guriri" .
+
+<http://purl.org/nemo/integradoce#ZCN-06> rdfs:label "Sao Mateus - Itaunas" .
+
+<http://purl.org/nemo/integradoce#ZCN-07> rdfs:label "Mucuri - Costa Dourada" .
+
+<http://purl.org/nemo/integradoce#ZCN-08> rdfs:label "Mucuri - Mucuri" .
+
+<http://purl.org/nemo/integradoce#ZCN-09> rdfs:label "Nova Vicosa - Nova Vicosa" .
+
+<http://purl.org/nemo/integradoce#ZCN-10> rdfs:label "Caravelas - Ponta de Areia" .
+
+<http://purl.org/nemo/integradoce#ZCS-01> rdfs:label "Aracruz - Refugio" .
+
+<http://purl.org/nemo/integradoce#ZCS-02> rdfs:label "Aracruz - Padres" .
+
+<http://purl.org/nemo/integradoce#ZCS-03> rdfs:label "Aracruz - Barra do Riacho" .
+
+<http://purl.org/nemo/integradoce#ZCS-04> rdfs:label "Aracruz - Comboios" .
+
+<http://purl.org/nemo/integradoce#ZCS-05> rdfs:label "Linhares - Regencia 01" .
+
+<http://purl.org/nemo/integradoce#ZCS-06> rdfs:label "Linhares - Regencia 02" .
+
+<http://purl.org/nemo/integradoce#ZCS-07> rdfs:label "Serra - Jacaraipe" .
+
+<http://purl.org/nemo/integradoce#ZCS-08> rdfs:label "Serra - Manguinhos" .
 
