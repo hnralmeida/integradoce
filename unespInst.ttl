@@ -1729,7 +1729,7 @@ gufo:Quality a owl:NamedIndividual , gufo:Category .
 # 
 # http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573953
 
-<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573953> a owl:NamedIndividual, :Measurement ;
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573953> a owl:NamedIndividual , :Measurement ;
 	:expressedIn unit:MilliGM-PER-L ;
 	:locatedIn <http://purl.org/nemo/integradoce#UNESP_J2> ;
 	:measuredQualityKind :DissolvedAluminiumConcentration ;
