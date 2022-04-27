@@ -1508,7 +1508,7 @@ gufo:Quality a owl:NamedIndividual , gufo:Category .
 <http://purl.org/nemo/integradoce#UNESP_J1> a owl:NamedIndividual .
 
 <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573746> :measuredQualityKind :DissolvedAluminiumConcentration ;
-	gufo:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:00:00-0300"^^xsd:dateTimeStamp ;
+	gufo:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:30:00-0300"^^xsd:dateTimeStamp ;
 	gufo:hasEndPointInXSDDateTimeStamp "2016-03-30T12:00:00-0300"^^xsd:dateTimeStamp ;
 	gufo:hasQualityValue "0.02"^^xsd:float .
 # 
