@@ -1,0 +1,605 @@
+@prefix ns1: <http://purl.org/nemo/gufo#> .
+@prefix ns2: <http://purl.org/nemo/doce#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/nemo/integradoce#IntegradoceUNESP> ns1:participatedIn <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573735>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573746>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573757>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573768>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573779>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573790>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573801>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573812>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573823>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573834>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573845>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573856>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573867>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573878>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573889>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573900>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573920>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573931>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573942>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573953>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573964>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573975>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573986>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573997>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574008>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574019>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574030>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574050>,
+        <http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574061>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573595>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573605>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573615>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573625>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573635>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573645>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573655>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573665>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573675>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573685>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573695>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573705>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573715>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573725>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573736>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573747>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573758>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573769>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573780>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573791>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573802>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573813>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573824>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573835>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573846>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573857>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573868>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573879>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573890>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573901>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573910>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573921>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573932>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573943>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573954>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573965>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573976>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573987>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573998>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574009>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574020>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574031>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574040>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574051>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574062>,
+        <http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574071> .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573735> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573746> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J1> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:30:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.02"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573757> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J2> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-31T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573768> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J3> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-31T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573779> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573790> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J5> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573801> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J10> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.26"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573812> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573823> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573834> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J13> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.057"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573845> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J14> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573856> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-05T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573867> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-05T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.068"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573878> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J17> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-06T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573889> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C1> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573900> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C2> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573920> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C4> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-04T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573931> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-05T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.03"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573942> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J1> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573953> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J2> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573964> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J3> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.042"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573975> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573986> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J5> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237573997> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J10> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.026"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574008> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574019> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.03"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574030> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J13> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.21"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574050> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#DissolvedAluminiumConcentrationMeasurement46496237574061> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:DissolvedAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-09T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.051"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573595> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-01-15T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.04"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573605> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-01-17T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.05"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573615> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-01-19T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.2"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573625> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-01-21T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.12"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573635> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J14> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-02-13T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.07"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573645> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-02-15T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.08"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573655> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-02-17T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.08"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573665> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-07-12T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.04"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573675> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-07-15T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.05"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573685> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-07-17T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.2"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573695> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-07-19T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.12"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573705> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J14> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-08-14T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.07"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573715> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-08-16T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.08"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573725> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2019-08-18T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.08"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573736> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.062"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573747> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J1> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-30T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.16"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573758> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-31T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "2.85"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573769> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J3> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-03-31T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.79"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573780> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "1.67"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573791> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J5> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "1.67"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573802> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J10> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "2.28"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573813> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "2.27"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573824> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "2.16"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573835> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J13> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "1.56"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573846> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J14> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-03T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.77"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573857> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-05T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.81"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573868> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-05T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.81"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573879> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J17> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-06T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.93"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573890> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C1> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-01T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.93"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573901> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.68"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573910> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C3> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-02T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.84"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573921> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_C4> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2016-04-04T12:00:00-0300"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.98"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573932> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_M2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-05T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "0.15"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573943> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J1> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "1.56"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573954> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J2> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "10.97"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573965> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J3> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "4.58"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573976> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J4> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-06T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "6.53"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573987> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J5> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "5.66"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237573998> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J10> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "15.77"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574009> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J11> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-07T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "8.6"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574020> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J12> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "6.05"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574031> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J13> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "20.54"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574040> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J14> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "6.0"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574051> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J15> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-08T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "3.19"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574062> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J16> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-09T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "3.5"^^xsd:float .
+
+<http://purl.org/nemo/integradoce#TotalAluminiumConcentrationMeasurement46496237574071> a ns2:Measurement ;
+    ns2:expressedIn <http://qudt.org/vocab/unit/MilliGM-PER-L> ;
+    ns2:locatedIn <http://purl.org/nemo/integradoce#UNESP_J17> ;
+    ns2:measuredQualityKind ns2:TotalAluminiumConcentration ;
+    ns1:hasBeginPointInXSDDateTimeStamp "2015-12-09T12:00:00-0200"^^xsd:dateTimeStamp ;
+    ns1:hasQualityValue "4.16"^^xsd:float .
+
