@@ -162,3 +162,4 @@ fin= datetime.fromisoformat("2016-12-31")
 y= pesqTempo(x, ini,fin)
 y= pesqQualidade(x, "Aluminium")
 y.serialize(destination="pesqMesc.ttl")
+
