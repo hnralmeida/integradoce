@@ -3,3 +3,6 @@ O RDFLib é um pacote Python de código aberto utilizado durante todo o trabalho
 Para a instalação do RDFLib é necessário importar a biblioteca pelo pip. Esses códigos estão localizados em: Getting started with RDFLib — rdflib 6.1.1 documentation. 
 
 Este projeto pretende apresentar funções que foram criadas para filtrar pesquisas e ensinar os usuários como utilizar essas funções adequadamente detalhando-as e explicando o que foi feito passo-a-passo. Serão apresentados exemplos de como criar triplas, como criar gráficos e como iterar nesses gráficos utilizando um modelo de diagrama da ontologia. 
+
+ <p>Diferente do uso do Protégé para pesquisar em ontologias, com o RDFlib não é necessário mais que uma IDE Python ou compilador para fazer uma busca se já existir previamente um algoritmo. Além disso, se for de interesse do criador dessa Ontologia, ele pode disponibilizar esses algoritmos em uma biblioteca para o usuário.</p>
+ <p>Esse projeto apresenta algum dos códigos possíveis para esses algoritmos e tem intenção de mostrar a viabilidade do uso da ferramenta Jupyter Notebook. para busca, porém também é possível fazer via terminal Python. "Outros trabalhos podem ser acresentados depois como referência além deste, que não deve ser a primeira tentativa de navegar em triplas através do RDFLib."</p>
