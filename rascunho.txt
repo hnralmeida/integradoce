@@ -1,0 +1,5 @@
+O RDFLib é um pacote Python de código aberto utilizado durante todo o trabalho e mantido em um repositório GitHub. Ele contém a maioria das coisas necessárias para trabalhar com RDF, como, por exemplo: Analisadores e serializadores para RDF/XML, N3, NTriples, N-Quads, Turtle (utilizada neste trabalho), TriX, Trig e JSON-LD. Uma interface gráfica pode ser gerada pelo RDFLib,  ela pode armazenar implementações para endpoints SPARQL na memória, também suporta consultas SPARQL 1.1 e instruções de atualização de mecanismos de extensão da função SPARQL. 
+
+Para a instalação do RDFLib é necessário importar a biblioteca pelo pip. Esses códigos estão localizados em: Getting started with RDFLib — rdflib 6.1.1 documentation. 
+
+Este projeto pretende apresentar funções que foram criadas para filtrar pesquisas e ensinar os usuários como utilizar essas funções adequadamente detalhando-as e explicando o que foi feito passo-a-passo. Serão apresentados exemplos de como criar triplas, como criar gráficos e como iterar nesses gráficos utilizando um modelo de diagrama da ontologia. 
